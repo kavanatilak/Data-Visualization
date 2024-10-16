@@ -15,7 +15,7 @@ An interactive Power BI dashboard that provides insights into loan distribution,
 - **Focus on Clarity:** Clean and concise visual design ensures that the data story is easy to follow and interpret.
 
 **Technologies Used**
-**Microsoft Power BI:** Used for data visualization and dashboard creation.
+- **Microsoft Power BI:** Used for data visualization and dashboard creation.
 
 **Future Enhancements**
 - Adding more interactive dashboards covering different datasets and industries.
